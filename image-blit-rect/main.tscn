@@ -20,6 +20,6 @@ texture = ExtResource("1_spuqk")
 
 [node name="TextureRectDst" type="TextureRect" parent="."]
 layout_mode = 0
-offset_right = 40.0
-offset_bottom = 40.0
-texture = ExtResource("1_spuqk")
+offset_left = 552.0
+offset_right = 680.0
+offset_bottom = 128.0
